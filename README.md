@@ -23,7 +23,7 @@ It is a free technology web program school provided by Rocketseat through online
 
 ## 🚀 Technologies
 
-In this project I used the followinf technologies:
+In this project I used the following technologies:
 
 - HTML & CSS
 - JavaScript
