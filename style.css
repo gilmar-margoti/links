@@ -102,6 +102,14 @@ body * {
   -webkit-backdrop-filter: blur(4px);
 }
 
+/* introduction */
+#introduction {
+  margin-top: 30px;
+  margin-bottom: 5px;
+  line-height: 2rem;
+  text-align: center;
+}
+
 /* links */
 ul {
   list-style: none;
@@ -160,13 +168,6 @@ ul li a:hover {
 
 #sociallinks a:hover {
   background: var(--highlight-color);
-}
-
-/* footer */
-footer {
-  padding: 24px 0;
-  font-size: 14px;
-  text-align: center;
 }
 
 /* media queries */
